@@ -1,12 +1,16 @@
-Linear regression (Statistics)
+Number System Converter
 ==============================
 
-program to calculate and graph lineal regression
+This program will convert a given number into other number systems
+- binary
+- Ocatal
+- Decimal
+- Hexadecimal
 
  milestones
 -----------
 
-- Calculate and print out equations
-- Create a class to handle all mathematical methods
-- Graph
+- Create functions
+- Call functions where appropriated.
+- discplay results
  
